@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ashwath Bhat</h1>
-<h3 align="center">A passionate Software Developer with interest in building scalable microservices and cloud-native applications.</h3>
+<h3 align="center">A passionate Software Developer with an interest in building scalable microservices and cloud-native applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwathbhat98&label=Profile%20views&color=0e75b6&style=flat" alt="ashwathbhat98" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwathbhat98&label=Profile%20views&color=0e75b6&style=flat" alt="ashwathbhat98" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/ashwathbhat98" target="blank"><img src="https://img.shields.io/twitter/follow/ashwathbhat98?logo=twitter&style=for-the-badge" alt="ashwathbhat98" /></a> </p>
 
 - 🌱 I’m currently **a Master's student at Arizona State University**
 
-- 👨‍💻 All of me [ashwathbhat98.github.io](ashwathbhat98.github.io)
+<!-- - 👨‍💻 All of me [ashwathbhat98.github.io](ashwathbhat98.github.io) (Not updated) -->
 
 - 📫 How to reach me **ashwathbhat02@gmail.com**
-
-- 📄 Know about my experiences [t.ly/OfKI](t.ly/OfKI)
 
 - ⚡ Fun fact **I am Software Engineer who once knew Iron and Steel Making**
 
