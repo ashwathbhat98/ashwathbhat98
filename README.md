@@ -3,13 +3,13 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwathbhat98&label=Profile%20views&color=0e75b6&style=flat" alt="ashwathbhat98" /> </p> -->
 
-- 🌱 I’m currently **a Master's student at Arizona State University**
+
+- 💻 Incoming _SWE II_ at _PayPal Inc._, San Jose
+- 🎓 Previously, grad student at **Arizona State University**, working with the @TOMNETUTC on uncovering Trends and Patterns using American Time Use Survey (ATUS) data.
 
 <!-- - 👨‍💻 All of me [ashwathbhat98.github.io](ashwathbhat98.github.io) (Not updated) -->
 
 - 📫 How to reach me **ashwathbhat02@gmail.com**
-
-- ⚡ Fun fact **I am a Software Engineer who once knew Iron and Steel Making**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
